@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 env:
-  DOCKER_USERNAME: rbutechnologies
+  DOCKER_USERNAME: sathishkumar711
   IMAGE_NAME: books-service
 
 jobs:
